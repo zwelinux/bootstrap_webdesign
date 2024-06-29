@@ -1,0 +1,43 @@
+.header {
+    width: 95%;
+    height: 30vh;
+    background-color: #ffb81e;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.header-image {
+    width: 300px;
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+.header-image-img {
+    width: 170px;
+    border-radius: 50%;
+    border: 3px solid #ffff;
+}
+
+.header-content {
+    width: 700px;
+    text-align: center;
+    border: 1px solid #2d2d2d;
+}
+
+
+.container {
+    width: 95%;
+    height: 70vh;
+    background-color: #ffffff;
+    border: 1px solid #2d2d2d;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
